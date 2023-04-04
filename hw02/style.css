@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+hr {
+    width: 65%;
+}
+body {
+    background-image: url(https://images.gamebanana.com/img/ss/mods/52107b2b4082d.jpg);
+    background-repeat: no-repeat;
+    background-size: 125%;
+}
+body {
+    color:white
+}
+.firstext {
+    font-size: larger;
+
+}
+.videos {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 450px;
+    weight: 50px;
+}
+body {
+    font-size: 17px;
+}
+.newsmoke {
+    font-size: 20px;
+}
+footer {
+    position: absolute;
+    width: 80%;
+  }
+  .yellowtext {
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    font-size: 20px;
+  }
